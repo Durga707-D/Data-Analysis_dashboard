@@ -9,13 +9,10 @@ An interactive Excel-based sales analytics dashboard built using the Supermart G
    2. Which product categories contribute the largest share of total sales?
    3. How do sales change over time?
    4. Which regions generate the highest sales?
- objective 2
-   1. Which categories and sub-categories generate the highest sales?
-   2. Which products have high sales but comparatively low profit?
-objective 3
-   1. Which categories and regions generate the highest profit?
-   2. Is there a relationship between discount and profit?
-objective 4
-  1. Which states and cities generate the highest sales?
-  2. Which locations have high sales but comparatively low profit?
-S
+   5. Which categories and sub-categories generate the highest sales?
+   6. Which products have high sales but comparatively low profit?
+   7. Which categories and regions generate the highest profit?
+   8. Is there a relationship between discount and profit?
+   9. Which states and cities generate the highest sales?
+   10. Which locations have high sales but comparatively low profit?
+
