@@ -2,7 +2,7 @@
 ## Project Objective
 An interactive Excel-based sales analytics dashboard built using the Supermart Grocery Sales dataset. The project analyzes sales, profit, product performance, discounts, and geographic performance using PivotTables, charts, KPIs, and interactive slicers.
 ## Dataset Used
-   
+   [download dataset](
 ## Questions Solved 
  objective 1
    1. What are the total sales and total profit?
