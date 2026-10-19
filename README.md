@@ -1,5 +1,5 @@
 # Supermart Grocery Sales Dashboard
 ## Project Objective
 An interactive Excel-based sales analytics dashboard built using the Supermart Grocery Sales dataset. The project analyzes sales, profit, product performance, discounts, and geographic performance using PivotTables, charts, KPIs, and interactive slicers.
-##Dataset Used
+## Dataset Used
  "C:\Users\guddu\Downloads\Supermart Grocery Sales - Retail Analytics Dataset (1).csv"
